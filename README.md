@@ -36,7 +36,8 @@ This app uses BLIP (Bootstrapping Language-Image Pre-training) for image caption
 ## To install the necessary packages, run:
 
 ```bash
-pip install torch transformers gtts gradio```
+pip install torch transformers gtts gradio
+```
 
 ## Installation and Setup
 
