@@ -42,15 +42,21 @@ pip install torch transformers gtts gradio
 ## Installation and Setup
 
 * Clone the repository:
-`git clone https://github.com/your-username/image-description-audio-transcript.git
-cd image-description-audio-transcript`
+```bash
+git clone https://github.com/your-username/image-description-audio-transcript.git
+cd image-description-audio-transcript
+```
 
 * Create a virtual environment (optional but recommended):
-`python -m venv venv
-source venv/bin/activate  # On Windows, use venv\Scripts\activate`
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows, use venv\Scripts\activate
+```
 
 * Install the required packages:
-`pip install torch transformers gtts gradio`
+```bash
+pip install torch transformers gtts gradio
+```
 
 * Ensure that the necessary models are downloaded: The BLIP model will automatically be downloaded when the script is run, and gTTS will use an online service to convert text to speech.
 
