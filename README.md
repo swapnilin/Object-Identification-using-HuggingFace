@@ -63,11 +63,13 @@ pip install torch transformers gtts gradio
 ## Usage
 
 1. Run the application:
-2. python app.py
-3. Open a web browser and navigate to http://127.0.0.1:7860 to access the app.
-4. Upload an image through the provided input.
-5. Click the Generate Description button to get a text description of the image.
-6. Click the Click here for an audio transcript button to hear the description.
+```bash
+python object_detection.py
+```
+2. Open a web browser and navigate to http://127.0.0.1:7860 to access the app.
+3. Upload an image through the provided input.
+4. Click the Generate Description button to get a text description of the image.
+5. Click the `Click here for an audio transcript` button to hear the description.
 
 ## Configuration
 
