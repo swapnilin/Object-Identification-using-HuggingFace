@@ -68,7 +68,7 @@ python object_detection.py
 ```
 2. Open a web browser and navigate to http://127.0.0.1:7860 to access the app.
 3. Upload an image through the provided input.
-4. Click the Generate Description button to get a text description of the image.
+4. Click the `Generate Description` button to get a text description of the image.
 5. Click the `Click here for an audio transcript` button to hear the description.
 
 ## Configuration
